@@ -1,0 +1,12 @@
+{
+  "name": "NewPortfolioSite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EdilAbe/NewPortfolioSite.git",
+  "author": "EdilAbe <edilawittsehay@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "framer-motion": "^10.3.0",
+    "react-scripts": "^5.0.1"
+  }
+}
